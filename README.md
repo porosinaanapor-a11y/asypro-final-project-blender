@@ -22,7 +22,7 @@
 
 ## ▶️Скриншоты проекта
 
-
+https://raw.githubusercontent.com/porosinaanapor-a11y/asypro-final-project-blender/6a168c92baf5aa0ca3ef64f2cdb2d651e815a0d3/%D1%8F%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B21.png
 
 ## 📞 Контакты
 
